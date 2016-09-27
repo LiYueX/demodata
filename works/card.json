@@ -1,15 +1,4 @@
 [
-  {"title":"第一天","desc":"第一天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project1.jpg","url":"a"},
-  {"title":"第二天","desc":"第二天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project2.jpg","url":"b"},
-  {"title":"第三天","desc":"第三天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project3.jpg","url":"c"},
-  {"title":"第四天","desc":"第四天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project4.jpg","url":"d"},
-  {"title":"第五天","desc":"第五天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project5.jpg","url":"e"},
-  {"title":"第六天","desc":"第六天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project6.jpg","url":"f"},
-  {"title":"第七天","desc":"第七天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project7.jpg","url":"g"},
-  {"title":"第八天","desc":"第八天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project8.jpg","url":"h"},
-  {"title":"第九天","desc":"第九天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project9.jpg","url":"i"}
-]
-[
   {"title":"Git和Github操作","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project1.jpg","url":"Git和Github操作"},
   {"title":"webpack基础","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project2.jpg","url":"webpack基础"},
   {"title":"ES6快速入门","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project3.jpg","url":"ES6快速入门"},
