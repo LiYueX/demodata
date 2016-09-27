@@ -9,3 +9,23 @@
   {"title":"第八天","desc":"第八天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project8.jpg","url":"h"},
   {"title":"第九天","desc":"第九天描述","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project9.jpg","url":"i"}
 ]
+[
+  {"title":"Git和Github操作","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project1.jpg","url":"Git和Github操作"},
+  {"title":"webpack基础","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project2.jpg","url":"webpack基础"},
+  {"title":"ES6快速入门","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project3.jpg","url":"ES6快速入门"},
+  {"title":"Markdown","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project4.jpg","url":"Markdown"},
+  {"title":"NPM使用方法","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project5.jpg","url":"NPM使用方法"},
+  {"title":"Node安装配置","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project6.jpg","url":"Node安装配置"},
+  {"title":"基本shell命令使用","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project7.jpg","url":"基本shell命令使用"},
+  {"title":"Linux显示Git分支","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project8.jpg","url":"Linux显示Git分支"},
+  {"title":"HTTP基础知识","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project9.jpg","url":"HTTP基础知识"},
+  {"title":"Nodejs QueryString","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project10.jpg","url":"Nodejs QueryString"},
+  {"title":"Nodejs URL","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project11.jpg","url":"Nodejs URL"},
+  {"title":"Nodejs模块","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project12.jpg","url":"Nodejs模块"},
+  {"title":"命令行中体验nodejs","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project13.jpg","url":"命令行中体验nodejs"},
+  {"title":"起一个web服务器","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project14.jpg","url":"起一个web服务器"},
+  {"title":"React基础知识详解","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project15.jpg","url":"React基础知识详解"},
+  {"title":"React-router路由","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project16.jpg","url":"React-router路由"},
+  {"title":"部署项目","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project17.jpg","url":"部署项目"},
+  {"title":"局域网内模拟部署","imgUrl":"http://odovq7hn5.bkt.clouddn.com/project9.jpg","url":"局域网内模拟部署"}
+]
