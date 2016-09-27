@@ -1,4 +1,4 @@
-<h1 style={{textAlign:'center',color:'#0ff'}}>Express 第一课</h1>
+<h1 style={{textAlign:'center',color:'blue'}}>Express 第一课</h1>
 
 ### 动手写express代码
 
